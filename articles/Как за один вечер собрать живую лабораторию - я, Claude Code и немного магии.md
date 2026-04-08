@@ -1,6 +1,6 @@
 ---
-title: "Как за один вечер собрать живую лабораторию - я, Claude Code и немного магии"
-description: ""
+title: Как за один вечер собрать живую лабораторию - я, Claude Code и немного магии
+description: статья
 publishedAt: 2026-04-08
 status: published
 tags: []
