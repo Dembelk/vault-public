@@ -1,9 +1,14 @@
 ---
 title: Как за один вечер собрать живую лабораторию - я, Claude Code и немного магии
-description: статья
+description: "Как я за один вечер превратил заметки в Obsidian в полноценный сайт-лабораторию с автоматическим деплоем и чистой типографикой"
 publishedAt: 2026-04-08
 status: published
-tags: []
+tags:
+  - obsidian
+  - vercel
+  - claude-code
+  - personal-website
+slug: kak-za-odin-vecher-sobrat-laboratoriyu-claude-code
 ---
 Хороший вечер — это когда что-то наконец щёлкает. Не фильм, не бар. Просто: работает.
 
