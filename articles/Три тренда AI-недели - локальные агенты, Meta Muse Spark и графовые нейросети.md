@@ -2,14 +2,14 @@
 title: "Локальные агенты, проприетарные модели и графовые нейросети: три тренда AI-недели"
 description: "Разбираем три ключевых тренда AI-недели: локальные агенты AMD GAIA, проприетарная модель Meta Muse Spark и графовые нейросети Zalando для персонализации."
 publishedAt: 2026-04-15
-status: draft
+status: published
 tags:
   - AI
   - локальные агенты
   - graph neural networks
   - персонализация
   - machine learning
-slug: lokalnye-agenty-proprietarnye-modeli-i-grafovye-neyroseti-v1
+slug: lokalnye-agenty-proprietarnye-modeli-i-grafovye-neyroseti-tri-trenda-ai-nedeli
 ---
 *AMD, Meta и Zalando двигают индустрию в сторону приватного, локального и контекстно-ориентированного AI*
 
